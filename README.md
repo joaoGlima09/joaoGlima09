@@ -1,4 +1,4 @@
-<h1 align="center">Olá mundo! 🤖 Como vai?</h1>
+<h1 align="center">Olá mundo! 🤖 Como vâo?</h1>
 
 ###
 
